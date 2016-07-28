@@ -49,6 +49,23 @@
         <!-- Head Libs -->
         <script src="theme/vendor/modernizr/modernizr.min.js"></script>
 
+        <!-- Vendor -->
+        <script src="theme/vendor/jquery/jquery.min.js"></script>
+        <script src="theme/vendor/jquery.appear/jquery.appear.min.js"></script>
+        <script src="theme/vendor/jquery.easing/jquery.easing.min.js"></script>
+        <script src="theme/vendor/jquery-cookie/jquery-cookie.min.js"></script>
+        <script src="theme/vendor/bootstrap/js/bootstrap.min.js"></script>
+        <script src="theme/vendor/common/common.min.js"></script>
+        <script src="theme/vendor/jquery.validation/jquery.validation.min.js"></script>
+        <script src="theme/vendor/jquery.stellar/jquery.stellar.min.js"></script>
+        <script src="theme/vendor/jquery.easy-pie-chart/jquery.easy-pie-chart.min.js"></script>
+        <script src="theme/vendor/jquery.gmap/jquery.gmap.min.js"></script>
+        <script src="theme/vendor/jquery.lazyload/jquery.lazyload.min.js"></script>
+        <script src="theme/vendor/isotope/jquery.isotope.min.js"></script>
+        <script src="theme/vendor/owl.carousel/owl.carousel.min.js"></script>
+        <script src="theme/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+        <script src="theme/vendor/vide/vide.min.js"></script>
+
     </head>
     <body>
         <div class="body">
