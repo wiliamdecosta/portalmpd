@@ -35,8 +35,8 @@
 						data-transform_in="y:[100%];s:500;"
 						data-transform_out="opacity:1;s:500;"
 						style="z-index: 5"
-						data-mask_in="x:0px;y:0px;">Dinas Pelayanan Pajak Kota Bandung		
-					
+						data-mask_in="x:0px;y:0px;">Dinas Pelayanan Pajak Kota Bandung
+
 					</a>
 
 
@@ -45,21 +45,23 @@
 			</ul>
 		</div>
 	</div>
-	
+
 	<?php
-		
+
 	?>
-	
+
 	<section class="call-to-action call-to-action-default call-to-action-in-footer mt-none no-top-arrow">
 		<!-- <div class="vc_btn3-container vc_btn3-inline">
 			<button class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-rounded vc_btn3-style-flat vc_btn3-color-success vc_label"><?php echo $value_title ?></button>
-		</div> 
-		</div> -->
-		<div class="row">
-			<h2 class="mb-none"><?php echo $title ?></h2>
-			<hr class="tall">
 		</div>
+		</div> -->
 		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+					<h2 class="mb-none"><?php echo $title ?></h2>
+					<hr class="tall">
+				</div>
+			</div>
 
 			<div class="featured-boxes featured-boxes-flat">
 				<div class="row">
@@ -89,11 +91,20 @@
 							</a>
 						</div>
 					</div>
-					
-				</div>				
+
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-2 col-md-offset-5">
+					<a href="<?php echo base_url();?>" class="btn btn-success btn-lg btn-block">
+						<i class="fa fa-arrow-left"></i>
+						Kembali
+					</a>
+				</div>
+			</div>
 		</div>
 	</section>
 <script>
-	
+
 </script>
 <?php $this->load->view('frontend/footer'); ?>

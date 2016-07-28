@@ -4,12 +4,12 @@
                 <div class="container">
                     <div class="row">
                         <div class="footer-ribbon">
-                            <span>Kontak Kami</span>
+                            <span>Dinas Pelayanan Pajak</span>
                         </div>
                         <div class="col-md-6">
                             <h4>Portal Disyanjak</h4>
                             <p>
-                                Sistem Informasi Pelayanan PBB merupakan portal layanan online yang dapat diakses oleh masyarakat untuk menghubungkan berbagai sistem pelayanan pajak yang disediakan oleh Dinas Pelayanan Pajak Kota Bandung.
+                                “Professional dan Prima dalam Pengelolaan Pajak Daerah Menuju Bandung Unggul, Nyaman dan Sejahtera”
                             </p>
                         </div>
                         <div class="col-md-4">

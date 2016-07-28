@@ -22,7 +22,7 @@
 						data-y="center" data-voffset="5"
 						data-start="2000"
 						style="z-index: 5"
-						data-transform_in="y:[100%];opacity:1;s:500;">Selamat Datang di Portal Website</div>
+						data-transform_in="y:[100%];opacity:1;s:500;">Selamat Datang di Website Portal</div>
 
 					<a class="tp-caption btn btn-lg btn-primary btn-slider-action"
 						data-hash
@@ -35,8 +35,8 @@
 						data-transform_in="y:[100%];s:500;"
 						data-transform_out="opacity:1;s:500;"
 						style="z-index: 5"
-						data-mask_in="x:0px;y:0px;">Dinas Pelayanan Pajak Kota Bandung		
-					
+						data-mask_in="x:0px;y:0px;">Dinas Pelayanan Pajak Kota Bandung
+
 					</a>
 
 
@@ -45,11 +45,11 @@
 			</ul>
 		</div>
 	</div>
-	
+
 	<section class="call-to-action call-to-action-default call-to-action-in-footer mt-none no-top-arrow">
 		<div class="container">
 			<div class="featured-boxes featured-boxes-flat">
-				<div class="row">								
+				<div class="row">
 					<div class="col-md-4 col-sm-6">
 						<div class="boxhead">
 							<a href="<?php echo base_url().'gate?type=hotel'?>">
@@ -102,8 +102,8 @@
 									</div>
 								</div>
 							</a>
-						</div>				
-					</div>				
+						</div>
+					</div>
 					<div class="col-md-4 col-sm-6">
 						<div class="boxhead">
 							<a href="<?php echo base_url().'gate?type=penjal'?>">
@@ -130,7 +130,7 @@
 							</a>
 						</div>
 					</div>
-				</div>			
+				</div>
 				<div class="row">
 					<div class="col-md-4 col-sm-6">
 						<div class="boxhead">
@@ -152,7 +152,7 @@
 										<i class="icon-featured fa fa-building"></i>
 										<h1>Bea Perolehan Hak Atas Tanah dan Bangunan</h1>
 										<p>Peraturan Walikota Nomor 393 tahun 2012</p>
-									</div>								
+									</div>
 								</div>
 							</a>
 						</div>
@@ -164,7 +164,7 @@
 									<div class="box-content">
 										<i class="icon-featured fa fa-globe"></i>
 										<h1>Pajak Bumi dan Bangunan</h1>
-										<p>Peraturan Walikota Nomor 394 tahun 2012</p>
+										<p>...</p>
 									</div>
 								</div>
 							</a>
