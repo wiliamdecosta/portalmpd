@@ -7,7 +7,7 @@
                             <span>Dinas Pelayanan Pajak</span>
                         </div>
                         <div class="col-md-6">
-                            <h4>Portal Disyanjak</h4>
+                            <h4>About Us</h4>
                             <p>
                                 “Professional dan Prima dalam Pengelolaan Pajak Daerah Menuju Bandung Unggul, Nyaman dan Sejahtera”
                             </p>

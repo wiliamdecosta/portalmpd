@@ -116,15 +116,15 @@
                                             <li class="social-icons-twitter"><a href="#" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
                                         </ul>
                                         <div class="header-nav-main header-nav-main-effect-1 header-nav-main-sub-effect-1 collapse">
-                                            <!-- <nav>
+                                            <nav>
                                                 <ul class="nav nav-pills" id="mainNav">
                                                     <li class="active">
-                                                        <a href="index.html">
+                                                        <a href="<?php echo base_url();?>">
                                                             Home
                                                         </a>
                                                     </li>
                                                 </ul>
-                                            </nav> -->
+                                            </nav>
                                         </div>
                                     </div>
                                 </div>
