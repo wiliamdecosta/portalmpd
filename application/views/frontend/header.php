@@ -95,13 +95,16 @@
                                     <nav class="header-nav-top">
                                         <ul class="nav nav-pills">
                                             <li class="hidden-xs">
-                                                <a href="#"><i class="fa fa-angle-right"></i> About Us</a>
-                                            </li>
-                                            <li class="hidden-xs">
-                                                <a href="#"><i class="fa fa-angle-right"></i> Contact Us</a>
+                                                <a href="#"> Call Us : </a>
                                             </li>
                                             <li>
-                                                <span class="ws-nowrap"><i class="fa fa-phone"></i> (123) 456-789</span>
+                                                <span class="ws-nowrap"><i class="fa fa-phone"></i> (022) 423-5052 </span>
+                                            </li>
+                                            <li class="hidden-xs">
+                                                <a href="#"> Address : </a>
+                                            </li>
+                                            <li>
+                                                <span class="ws-nowrap"><i class="fa fa-map-marker"></i> Jl.Wastukancana No.2-Bandung </span>
                                             </li>
                                         </ul>
                                     </nav>
