@@ -6,10 +6,10 @@ class Gate extends CI_Controller {
 	public function index()
 	{
 		$type = $this->input->get('type');
-		
+
 		$common_link_daftar = 'http://45.118.112.232:81/form_pendaftaran/#/form/form-pendaftaran';
-		$common_link_login = 'http://45.118.112.232:81/mpd-wp/client/index.php';
-		
+		$common_link_login = base_url().'login';
+
 		$jenis_pajak = array('hotel' => array('title' => 'Pajak Hotel',
 										'link_pendaftaran' => $common_link_daftar,
 										'link_login' => $common_link_login),
@@ -36,21 +36,21 @@ class Gate extends CI_Controller {
 										'link_login' => "#"),
 						'pbb' => array('title' => 'Pajak Bumi dan Bangunan',
 										'link_pendaftaran' => 'http://49.236.219.74/disyanjak-sipp/daftar',
-										'link_login' => 'http://49.236.219.74/disyanjak-sipp/ijinmasuk')										
+										'link_login' => 'http://49.236.219.74/disyanjak-sipp/ijinmasuk')
 					  );
 		try {
 			if(!array_key_exists($type, $jenis_pajak)) {
 				throw new Exception('error');
 			}
-				
+
 			$title = $jenis_pajak[$type]['title'];
 			$link_daftar = $jenis_pajak[$type]['link_pendaftaran'];
 			$link_login = $jenis_pajak[$type]['link_login'];
-			
+
 			$this->load->view('gate', array('title' => $title,
 											'link_daftar' => $link_daftar,
 											'link_login' => $link_login));
-		
+
 		}catch(Exception $e) {
 			$this->load->view('error_404');
 		}
