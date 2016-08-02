@@ -1,5 +1,6 @@
 <?php $this->load->view('frontend/header'); ?>
 <style>
+
 .boxhead a {
     color: #FFFFFF;
     text-decoration: none;
@@ -91,17 +92,17 @@ h4{
 		<div class="container">
 			<div class="featured-boxes featured-boxes-flat">
 				<div class="row">
-				
-					<div class="col-md-4 col-sm-6">				
+
+					<div class="col-md-4 col-sm-6">
 						<div class="boxhead">
-							<a href="<?php echo base_url().'gate?type=pbb'?>">								
-								<div class="image-gallery-item">															
+							<a href="<?php echo base_url().'gate?type=pbb'?>">
+								<div class="image-gallery-item">
 									<span class="thumb-info thumb-info-centered-info thumb-info-no-borders mt-lg box-color">
 										<span class="thumb-info-wrapper" id="cbg">
-											<div class="boxhead">													
+											<div class="boxhead">
 													<div class="box-content box-outside-pajak">
 														<div class="col-md-12">
-															<h2>Hotel</h2>											
+															<h2>Hotel</h2>
 															<div class="row">
 															<div class="space-4"></div>
 																<div class="col-xs-11 box-detail-pajak" >
@@ -112,26 +113,26 @@ h4{
 													</div>
 											</div>
 											<span class="thumb-info-title">
-												<span class="thumb-info-inner"><img alt="" class="img-responsive" src="<?php echo base_url().'theme/img/homepages/hotel1s.png'?>"></span>																			
+												<span class="thumb-info-inner"><img alt="" class="img-responsive" src="<?php echo base_url().'theme/img/homepages/hotel1s.png'?>"></span>
 											</span>
 										</span>
 									</span>
-								</div>							
+								</div>
 							</a>
-						</div>												
-					</div>		
-					
-					
-					<div class="col-md-4 col-sm-6">				
+						</div>
+					</div>
+
+
+					<div class="col-md-4 col-sm-6">
 						<div class="boxhead">
-							<a href="<?php echo base_url().'gate?type=restoran'?>">							
-								<div class="image-gallery-item" >															
+							<a href="<?php echo base_url().'gate?type=restoran'?>">
+								<div class="image-gallery-item" >
 									<span class="thumb-info thumb-info-centered-info thumb-info-no-borders mt-lg box-color">
 										<span class="thumb-info-wrapper" id="cbg">
-											<div class="boxhead">													
+											<div class="boxhead">
 													<div class="box-content box-outside-pajak">
 														<div class="col-md-12">
-															<h2>Restoran</h2>											
+															<h2>Restoran</h2>
 															<div class="row">
 															<div class="space-4"></div>
 																<div class="col-xs-11 box-detail-pajak">
@@ -142,25 +143,25 @@ h4{
 													</div>
 											</div>
 											<span class="thumb-info-title">
-												<span class="thumb-info-inner"><img alt="" class="img-responsive" src="<?php echo base_url().'theme/img/homepages/restoran5.png'?>"></span>																			
+												<span class="thumb-info-inner"><img alt="" class="img-responsive" src="<?php echo base_url().'theme/img/homepages/restoran5.png'?>"></span>
 											</span>
 										</span>
 									</span>
-								</div>							
+								</div>
 							</a>
-						</div>											
-					</div>		
-					
-					<div class="col-md-4 col-sm-6">				
+						</div>
+					</div>
+
+					<div class="col-md-4 col-sm-6">
 						<div class="boxhead">
-							<a href="<?php echo base_url().'gate?type=hiburan'?>">							
-								<div class="image-gallery-item">															
+							<a href="<?php echo base_url().'gate?type=hiburan'?>">
+								<div class="image-gallery-item">
 									<span class="thumb-info thumb-info-centered-info thumb-info-no-borders mt-lg box-color">
 										<span class="thumb-info-wrapper" id="cbg">
-											<div class="boxhead">													
+											<div class="boxhead">
 													<div class="box-content box-outside-pajak">
 														<div class="col-md-12">
-															<h2>Hiburan</h2>											
+															<h2>Hiburan</h2>
 															<div class="row">
 															<div class="space-4"></div>
 																<div class="col-xs-11 box-detail-pajak">
@@ -171,29 +172,25 @@ h4{
 													</div>
 											</div>
 											<span class="thumb-info-title">
-												<span class="thumb-info-inner"><img alt="" class="img-responsive" src="<?php echo base_url().'theme/img/homepages/Hiburan23.png'?>"></span>																			
+												<span class="thumb-info-inner"><img alt="" class="img-responsive" src="<?php echo base_url().'theme/img/homepages/Hiburan23.png'?>"></span>
 											</span>
 										</span>
 									</span>
-								</div>							
+								</div>
 							</a>
-						</div>											
-					</div>		
-					
-				</div>	
-				
-				<div class="row">
-				
-					<div class="col-md-4 col-sm-6">				
+						</div>
+					</div>
+
+					<div class="col-md-4 col-sm-6">
 						<div class="boxhead">
-							<a href="<?php echo base_url().'gate?type=reklame'?>">								
-								<div class="image-gallery-item">															
+							<a href="<?php echo base_url().'gate?type=reklame'?>">
+								<div class="image-gallery-item">
 									<span class="thumb-info thumb-info-centered-info thumb-info-no-borders mt-lg box-color">
 										<span class="thumb-info-wrapper" id="cbg">
-											<div class="boxhead">													
+											<div class="boxhead">
 													<div class="box-content box-outside-pajak">
 														<div class="col-md-12">
-															<h2>Reklame</h2>											
+															<h2>Reklame</h2>
 															<div class="row">
 															<div class="space-4"></div>
 																<div class="col-xs-11 box-detail-pajak">
@@ -204,25 +201,25 @@ h4{
 													</div>
 											</div>
 											<span class="thumb-info-title">
-												<span class="thumb-info-inner"><img alt="" class="img-responsive" src="<?php echo base_url().'theme/img/homepages/reklame1.png'?>"></span>																			
+												<span class="thumb-info-inner"><img alt="" class="img-responsive" src="<?php echo base_url().'theme/img/homepages/reklame1.png'?>"></span>
 											</span>
 										</span>
 									</span>
-								</div>							
+								</div>
 							</a>
-						</div>											
-					</div>					
-					
-					<div class="col-md-4 col-sm-6">				
+						</div>
+					</div>
+
+					<div class="col-md-4 col-sm-6">
 						<div class="boxhead">
-							<a href="<?php echo base_url().'gate?type=penjal'?>">							
-								<div class="image-gallery-item">															
+							<a href="<?php echo base_url().'gate?type=penjal'?>">
+								<div class="image-gallery-item">
 									<span class="thumb-info thumb-info-centered-info thumb-info-no-borders mt-lg box-color">
 										<span class="thumb-info-wrapper" id="cbg">
-											<div class="boxhead">													
+											<div class="boxhead">
 													<div class="box-content box-outside-pajak">
 														<div class="col-md-12">
-															<h2>Penerangan Jalan</h2>											
+															<h2>Penerangan Jalan</h2>
 															<div class="row">
 															<div class="space-4"></div>
 																<div class="col-xs-11 box-detail-pajak">
@@ -233,25 +230,25 @@ h4{
 													</div>
 											</div>
 											<span class="thumb-info-title">
-												<span class="thumb-info-inner"><img alt="" class="img-responsive" src="<?php echo base_url().'theme/img/homepages/Penerangan-jalan3.png'?>"></span>																			
+												<span class="thumb-info-inner"><img alt="" class="img-responsive" src="<?php echo base_url().'theme/img/homepages/Penerangan-jalan3.png'?>"></span>
 											</span>
 										</span>
 									</span>
-								</div>							
+								</div>
 							</a>
-						</div>											
-					</div>							
-					
-					<div class="col-md-4 col-sm-6">				
+						</div>
+					</div>
+
+					<div class="col-md-4 col-sm-6">
 						<div class="boxhead">
-							<a href="<?php echo base_url().'gate?type=parkir'?>">						
-								<div class="image-gallery-item">															
+							<a href="<?php echo base_url().'gate?type=parkir'?>">
+								<div class="image-gallery-item">
 									<span class="thumb-info thumb-info-centered-info thumb-info-no-borders mt-lg box-color">
 										<span class="thumb-info-wrapper" id="cbg">
-											<div class="boxhead">													
+											<div class="boxhead">
 													<div class="box-content box-outside-pajak">
 														<div class="col-md-12">
-															<h2>Parkir</h2>											
+															<h2>Parkir</h2>
 															<div class="row">
 															<div class="space-4"></div>
 																<div class="col-xs-11 box-detail-pajak">
@@ -262,28 +259,25 @@ h4{
 													</div>
 											</div>
 											<span class="thumb-info-title">
-												<span class="thumb-info-inner"><img alt="" class="img-responsive" src="<?php echo base_url().'theme/img/homepages/parkir.png'?>"></span>																			
+												<span class="thumb-info-inner"><img alt="" class="img-responsive" src="<?php echo base_url().'theme/img/homepages/parkir.png'?>"></span>
 											</span>
 										</span>
 									</span>
-								</div>							
+								</div>
 							</a>
-						</div>											
-					</div>								
-				
-				</div>
-				<div class="row">										
-					
-					<div class="col-md-4 col-sm-6">				
+						</div>
+					</div>
+
+					<div class="col-md-4 col-sm-6">
 						<div class="boxhead">
 							<a href="<?php echo base_url().'gate?type=pat'?>">
-								<div class="image-gallery-item">															
+								<div class="image-gallery-item">
 									<span class="thumb-info thumb-info-centered-info thumb-info-no-borders mt-lg box-color" >
 										<span class="thumb-info-wrapper" id="cbg">
-											<div class="boxhead">													
+											<div class="boxhead">
 													<div class="box-content box-outside-pajak">
 														<div class="col-md-12">
-															<h2>Hotel</h2>											
+															<h2>Hotel</h2>
 															<div class="row">
 															<div class="space-4"></div>
 																<div class="col-xs-11 box-detail-pajak">
@@ -294,44 +288,25 @@ h4{
 													</div>
 											</div>
 											<span class="thumb-info-title">
-												<span class="thumb-info-inner"><img alt="" class="img-responsive" src="<?php echo base_url().'theme/img/homepages/air1.png'?>"></span>																			
+												<span class="thumb-info-inner"><img alt="" class="img-responsive" src="<?php echo base_url().'theme/img/homepages/air1.png'?>"></span>
 											</span>
 										</span>
 									</span>
-								</div>							
-							</a>
-						</div>				
-					</div>		
-					
-					<!--<div class="col-md-4 col-sm-6">
-						<div class="boxhead">
-							<a href="<?php //echo base_url().'gate?type=parkir'?>">
-								<div class="featured-box featured-box-tertiary featured-box-effect-5 box-outside-pajak">
-									<div class="box-content box-jenis-pajak">
-										<i class="icon-featured fa fa-star"></i>
-										<h2>Bea Perolehan Hak Atas Tanah dan Bangunan</h2>
-										
-										<div class="row">
-											<div class="col-xs-11 box-detail-pajak">
-												<p>Peraturan Walikota Nomor 393 tahun 2012</p>
-											</div>
-										</div>
-									</div>
 								</div>
 							</a>
 						</div>
-					</div> -->
-					
-					<div class="col-md-4 col-sm-6">				
+					</div>
+
+					<div class="col-md-4 col-sm-6">
 						<div class="boxhead">
 							<a href="<?php echo base_url().'gate?type=bphatb'?>">
-								<div class="image-gallery-item">															
+								<div class="image-gallery-item">
 									<span class="thumb-info thumb-info-centered-info thumb-info-no-borders mt-lg box-color">
 										<span class="thumb-info-wrapper" id="cbg">
-											<div class="boxhead">													
+											<div class="boxhead">
 													<div class="box-content box-outside-pajak">
 														<div class="col-md-12">
-															<h4>Bea Perolehan Hak Atas Tanah dan Bangunan</h4>											
+															<h4>Bea Perolehan Hak Atas Tanah dan Bangunan</h4>
 															<div class="row">
 															<div class="space-4"></div>
 																<div class="col-xs-11 box-detail-pajak">
@@ -342,24 +317,24 @@ h4{
 													</div>
 											</div>
 											<span class="thumb-info-title">
-												<span class="thumb-info-inner"><img alt="" class="img-responsive" src="<?php echo base_url().'theme/img/homepages/BPHTB1.png'?>"></span>																			
+												<span class="thumb-info-inner"><img alt="" class="img-responsive" src="<?php echo base_url().'theme/img/homepages/BPHTB1.png'?>"></span>
 											</span>
 										</span>
 									</span>
-								</div>							
+								</div>
 							</a>
 						</div>
-					</div>		
+					</div>
 
 					<div class="col-md-4 col-sm-6">
 						<div class="boxhead">
 							<a href="<?php echo base_url().'gate?type=pbb'?>">
-								<div class="image-gallery-item">															
+								<div class="image-gallery-item">
 									<span class="thumb-info thumb-info-centered-info thumb-info-no-borders mt-lg box-color">
-										<span class="thumb-info-wrapper" id="cbg">										
+										<span class="thumb-info-wrapper" id="cbg">
 											<div class="box-content box-outside-pajak">
 												<div class="col-md-12">
-													<h2>Pajak Bumi dan Bangunan</h2>											
+													<h2>Pajak Bumi dan Bangunan</h2>
 													<div class="row">
 													<div class="space-4"></div>
 														<div class="col-xs-11 box-detail-pajak">
@@ -369,14 +344,14 @@ h4{
 												</div>
 											</div>
 											<span class="thumb-info-title">
-												<span class="thumb-info-inner"><img alt="" class="img-responsive" src="<?php echo base_url().'theme/img/homepages/BUMI-BANGUNAN1.png'?>"></span>																			
+												<span class="thumb-info-inner"><img alt="" class="img-responsive" src="<?php echo base_url().'theme/img/homepages/BUMI-BANGUNAN1.png'?>"></span>
 											</span>
 										</span>
 									</span>
-								</div>							
+								</div>
 							</a>
-						</div>						
-					</div>				
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
