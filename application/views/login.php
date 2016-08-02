@@ -7,7 +7,7 @@
 		</div> -->
 		<div class="container">
 
-			<?php if(!empty($this->session->flashdata('error_message'))): ?>
+			<?php if($this->session->flashdata('error_message') != ""): ?>
 			<div class="row">
 				<div class="col-md-12">
 					<div class="alert alert-secondary alert-dismissible" role="alert">
