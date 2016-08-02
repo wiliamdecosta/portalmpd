@@ -2,9 +2,16 @@
 <style>
 
 .boxhead a {
-    color: #FFFFFF;
+    color: #ffffff;
     text-decoration: none;
 }
+
+.boxhead h1,h2,h3,h4 {
+    color: #2baab1 !important;
+    font-weight:bold !important;
+    margin-top:15px !important;
+}
+
 
 .box-outside-pajak {
 	position:relative;
@@ -17,7 +24,7 @@
 
 .box-detail-pajak {
 	position:absolute;
-	bottom:-150px;
+	bottom:-120px;
 }
 
 .box-detail-pajak p {
@@ -26,26 +33,8 @@
 	font-size:11px;
 	color: #000000;
 }
-.box-detail-pajakss p {
-	font-size:11px;
-	color: #000000;
-}
 
-h2{
-	color:  #FFFFFF;
-	color:  #000000;
-	font-weight: bold;
-}
-h4{
-	color: #FFFFFF;
-	color: #000000;
-	font-weight: bold;
-}
 .box-color {
-	background:#38c085;
-	background:#AACF39;
-	background:#DFE6ED;
-	background:#ede7df;
 	background:#edebdf;
 }
 </style>
@@ -105,8 +94,8 @@ h4{
 															<h2>Hotel</h2>
 															<div class="row">
 															<div class="space-4"></div>
-																<div class="col-xs-11 box-detail-pajak" >
-																	<p style="font-size:11px">Peraturan Walikota Nomor 386 tahun 2012</p>
+																<div class="col-xs-12 box-detail-pajak" >
+																	<p>Peraturan Walikota Nomor 386 tahun 2012</p>
 																</div>
 															</div>
 														</div>
@@ -135,8 +124,8 @@ h4{
 															<h2>Restoran</h2>
 															<div class="row">
 															<div class="space-4"></div>
-																<div class="col-xs-11 box-detail-pajak">
-																	<p style="font-size:11px">Peraturan Walikota Nomor 387 tahun 2012</p>
+																<div class="col-xs-12 box-detail-pajak">
+																	<p>Peraturan Walikota Nomor 387 tahun 2012</p>
 																</div>
 															</div>
 														</div>
@@ -164,8 +153,8 @@ h4{
 															<h2>Hiburan</h2>
 															<div class="row">
 															<div class="space-4"></div>
-																<div class="col-xs-11 box-detail-pajak">
-																	<p style="font-size:11px">Peraturan Walikota Nomor 388 tahun 2012</p>
+																<div class="col-xs-12 box-detail-pajak">
+																	<p>Peraturan Walikota Nomor 388 tahun 2012</p>
 																</div>
 															</div>
 														</div>
@@ -193,8 +182,8 @@ h4{
 															<h2>Reklame</h2>
 															<div class="row">
 															<div class="space-4"></div>
-																<div class="col-xs-11 box-detail-pajak">
-																	<p style="font-size:11px">Peraturan Walikota Nomor 389 tahun 2012</p>
+																<div class="col-xs-12 box-detail-pajak">
+																	<p>Peraturan Walikota Nomor 389 tahun 2012</p>
 																</div>
 															</div>
 														</div>
@@ -222,8 +211,8 @@ h4{
 															<h2>Penerangan Jalan</h2>
 															<div class="row">
 															<div class="space-4"></div>
-																<div class="col-xs-11 box-detail-pajak">
-																	<p style="font-size:11px">Peraturan Walikota Nomor 390 tahun 2012</p>
+																<div class="col-xs-12 box-detail-pajak">
+																	<p>Peraturan Walikota Nomor 390 tahun 2012</p>
 																</div>
 															</div>
 														</div>
@@ -251,8 +240,8 @@ h4{
 															<h2>Parkir</h2>
 															<div class="row">
 															<div class="space-4"></div>
-																<div class="col-xs-11 box-detail-pajak">
-																	<p style="font-size:11px">Peraturan Walikota Nomor 391 tahun 2012</p>
+																<div class="col-xs-12 box-detail-pajak">
+																	<p>Peraturan Walikota Nomor 391 tahun 2012</p>
 																</div>
 															</div>
 														</div>
@@ -280,8 +269,8 @@ h4{
 															<h2>Pajak Air Tanah</h2>
 															<div class="row">
 															<div class="space-4"></div>
-																<div class="col-xs-11 box-detail-pajak">
-																	<p style="font-size:11px">Peraturan Walikota Nomor 392 tahun 2012</p>
+																<div class="col-xs-12 box-detail-pajak">
+																	<p>Peraturan Walikota Nomor 392 tahun 2012</p>
 																</div>
 															</div>
 														</div>
@@ -309,8 +298,8 @@ h4{
 															<h4>Bea Perolehan Hak Atas Tanah dan Bangunan</h4>
 															<div class="row">
 															<div class="space-4"></div>
-																<div class="col-xs-11 box-detail-pajak">
-																	<p style="font-size:11px">Peraturan Walikota Nomor 393 tahun 2012</p>
+																<div class="col-xs-12 box-detail-pajak">
+																	<p>Peraturan Walikota Nomor 393 tahun 2012</p>
 																</div>
 															</div>
 														</div>
@@ -334,11 +323,11 @@ h4{
 										<span class="thumb-info-wrapper" id="cbg">
 											<div class="box-content box-outside-pajak">
 												<div class="col-md-12">
-													<h2>Pajak Bumi dan Bangunan</h2>
+													<h3>Pajak Bumi dan Bangunan</h3>
 													<div class="row">
 													<div class="space-4"></div>
-														<div class="col-xs-11 box-detail-pajak">
-															<p style="font-size:11px"></p>
+														<div class="col-xs-12 box-detail-pajak">
+															<p></p>
 														</div>
 													</div>
 												</div>
