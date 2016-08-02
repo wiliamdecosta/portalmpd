@@ -95,7 +95,7 @@ h4{
 
 					<div class="col-md-4 col-sm-6">
 						<div class="boxhead">
-							<a href="<?php echo base_url().'gate?type=pbb'?>">
+							<a href="<?php echo base_url().'gate?type=hotel'?>">
 								<div class="image-gallery-item">
 									<span class="thumb-info thumb-info-centered-info thumb-info-no-borders mt-lg box-color">
 										<span class="thumb-info-wrapper" id="cbg">
@@ -277,7 +277,7 @@ h4{
 											<div class="boxhead">
 													<div class="box-content box-outside-pajak">
 														<div class="col-md-12">
-															<h2>Hotel</h2>
+															<h2>Pajak Air Tanah</h2>
 															<div class="row">
 															<div class="space-4"></div>
 																<div class="col-xs-11 box-detail-pajak">
