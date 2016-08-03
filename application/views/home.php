@@ -30,7 +30,7 @@
 .box-detail-pajak p {
 	text-align:center;
 	margin:0px auto !important;
-	font-size:11px;
+	font-size:12px;
 	color: #000000;
 }
 

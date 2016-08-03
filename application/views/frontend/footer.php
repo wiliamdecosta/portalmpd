@@ -18,7 +18,7 @@
                                 <ul class="contact">
                                     <li><p><i class="fa fa-map-marker"></i> <strong>Address:</strong> Jl.Wastukancana No.2-Bandung </p></li>
                                     <li><p><i class="fa fa-phone"></i> <strong>Phone:</strong> (022) 423-5052</p></li>
-                                    <li><p><i class="fa fa-envelope"></i> <strong>Email:</strong> <a href="mailto:mail@example.com">mail@example.com</a></p></li>
+                                    <li><p><i class="fa fa-envelope"></i> <strong>Email:</strong> <a href="mailto:support@disyanjak.bandung.go.id">support@disyanjak.bandung.go.id</a></p></li>
                                 </ul>
                             </div>
                         </div>
